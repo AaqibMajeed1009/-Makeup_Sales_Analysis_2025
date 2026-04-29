@@ -14,6 +14,9 @@
 ![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-blueviolet)
 ![Plotly](https://img.shields.io/badge/Interactive-Plotly-red)
 
+## 🌐 Live Dashboard
+👉 https://makeupsales.streamlit.app/
+
 # 🧑‍💻 What I Did in This Project
 
 In this project, I performed a comprehensive Exploratory Data Analysis (EDA) on a makeup sales dataset for the year 2025 with the aim of extracting meaningful insights and understanding overall business performance.
