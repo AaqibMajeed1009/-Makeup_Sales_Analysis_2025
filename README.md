@@ -7,3 +7,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/AaqibMajeed1009/makeup-sales-analysis)
 ![GitHub issues](https://img.shields.io/github/issues/AaqibMajeed1009/makeup-sales-analysis)
 ![GitHub license](https://img.shields.io/github/license/AaqibMajeed1009/makeup-sales-analysis)
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-green)
+![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-blueviolet)
+![Plotly](https://img.shields.io/badge/Interactive-Plotly-red)
